@@ -2,11 +2,11 @@ header.bg-dark{
     background-color: #ef8591 !important;
 }
 h1 {
-    color: #ef8591;
+    color: #3b0f14;
 }
 
 a.active{
-    color: #000000;
+    color: #000000 !important;
 }
 
 .bg-light {
