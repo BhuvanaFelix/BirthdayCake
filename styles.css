@@ -1,6 +1,14 @@
 header.bg-dark{
-    background-color: #842029 !important;
+    background-color: #ef8591 !important;
 }
 h1 {
-    color: brown;
+    color: #ef8591;
+}
+
+a.active{
+    color: #000000;
+}
+
+.bg-light {
+    background-color: #f4dcdf !important;
 }
